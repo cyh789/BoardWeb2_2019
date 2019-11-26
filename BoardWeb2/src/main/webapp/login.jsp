@@ -31,6 +31,9 @@
 				</tr>
 			</table>
 		</form>
+		<form action="searchPwd.do" method="post">
+			<input type="submit" value="비밀번호 찾기">
+		</form>
 		<hr>
 	</center>
 </body>
